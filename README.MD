@@ -7,5 +7,6 @@
 #### There's 2 Py files for 2 type of solving approach. 
 * Using Concatenating Strings (Using Concatenating Strings.py)
 * Using if, elif, and else (Using if, elif, and else.py)
+* Using Without Division (winthout_division.py)
 ---
 ## Visit <a href="https://rohandas28.github.io" target="_blank">rohandas28.github.io</a> to know more.
