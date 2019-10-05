@@ -1,4 +1,4 @@
-# FizzBuzz Program on Python
+# FizzBuzz Program on Python [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 ---
 ### In this repository you will find a solution to the ```FIZZBUZZ``` problem.
 ---
